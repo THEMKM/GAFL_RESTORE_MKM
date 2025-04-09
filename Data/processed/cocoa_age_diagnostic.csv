@@ -1,0 +1,11 @@
+respondent_id,farm_1_area_hectares,farm_2_area_hectares,farm_3_area_hectares,farm_4_area_hectares,farm_5_area_hectares,total_farm_area,farm_1_cocoa_ages_0_5_pct,farm_2_cocoa_ages_0_5_pct,farm_3_cocoa_ages_0_5_pct,farm_4_cocoa_ages_0_5_pct,farm_5_cocoa_ages_0_5_pct,farm_1_cocoa_ages_6_10_pct,farm_2_cocoa_ages_6_10_pct,farm_3_cocoa_ages_6_10_pct,farm_4_cocoa_ages_6_10_pct,farm_5_cocoa_ages_6_10_pct,farm_1_cocoa_ages_11_19_pct,farm_2_cocoa_ages_11_19_pct,farm_3_cocoa_ages_11_19_pct,farm_4_cocoa_ages_11_19_pct,farm_5_cocoa_ages_11_19_pct,farm_1_cocoa_ages_20_30_pct,farm_2_cocoa_ages_20_30_pct,farm_3_cocoa_ages_20_30_pct,farm_4_cocoa_ages_20_30_pct,farm_5_cocoa_ages_20_30_pct,farm_1_cocoa_ages_31_pct,farm_2_cocoa_ages_31_pct,farm_3_cocoa_ages_31_pct,farm_4_cocoa_ages_31_pct,farm_5_cocoa_ages_31_pct,farm_1_age_total,farm_2_age_total,farm_3_age_total,farm_4_age_total,farm_5_age_total,cocoa_ages_0_5_weighted,cocoa_ages_6_10_weighted,cocoa_ages_11_19_weighted,cocoa_ages_20_30_weighted,cocoa_ages_31_weighted,weighted_total
+Row_0,2.0000678894519806,5.00016982011795,,,,,0.0,10.0,,,,0.0,0.0,,,,50.0,20.0,,,,50.0,70.0,,,,0.0,0.0,,,,100.0,100.0,,,,0,0,0,0,0,0
+Row_1,0.5000169723629951,5.00016982011795,1.0000339447259903,,,,100.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_2,2.0000678894519806,,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_3,1.0000339447259903,,,,,,100.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_4,17.000577156829834,21.00071332168579,,,,,100.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_5,1.500050868844986,0.5000169723629951,,,,,0.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_6,2.0000678894519806,3.000101737689972,,,,,0.0,0.0,,,,30.0,0.0,,,,40.0,50.0,,,,30.0,50.0,,,,0.0,0.0,,,,100.0,100.0,,,,0,0,0,0,0,0
+Row_7,4.000135778903961,,,,,,0.0,,,,,0.0,,,,,0.0,,,,,75.0,,,,,25.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_8,6.000203475379944,,,,,,0.0,,,,,25.0,,,,,25.0,,,,,50.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
+Row_9,7.000237516593933,,,,,,25.0,,,,,75.0,,,,,0.0,,,,,0.0,,,,,0.0,,,,,100.0,,,,,0,0,0,0,0,0
