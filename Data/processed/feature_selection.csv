@@ -14,7 +14,7 @@ counter,variable_name,exists_in_dta,include_in_analysis,notes
 13,femhead,True,True,
 14,hhmem_edu_level,False,False,
 15,cocoa_training,True,True,
-16,hhmem_size,True,True,
+16,hhmem_size,True,True, 
 17,landuscha,False,False,
 18,lead_vill,True,True,
 19,cocoa_variety,False,False,
